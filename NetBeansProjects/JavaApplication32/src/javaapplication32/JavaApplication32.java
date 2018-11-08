@@ -18,6 +18,8 @@ public class JavaApplication32 {
         
         System.out.println("aaa");
         System.out.println("gggg");
+        
+        System.out.println("ggez");
     }
     
 }
