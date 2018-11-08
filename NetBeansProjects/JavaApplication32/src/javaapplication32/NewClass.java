@@ -15,6 +15,7 @@ public class NewClass {
     private static class printelene {
 
         public printelene() {
+            System.out.println("sprintln");
         }
     }
 }
